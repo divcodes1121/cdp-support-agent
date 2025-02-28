@@ -1,0 +1,12 @@
+{
+  "url": "https://docs.lytics.com/",
+  "title": "Lytics CDP",
+  "content": "All of your CDP answers, in one place\n\nIf you have questions about Lytics — whether you're a marketer, an engineer, an analyst, or an intern — we've got you covered.\n\nQuick Start\n\nDeveloper Quickstart\n\nAccount Management\n\nWhat is Vault?\n\nAccessing Accounts\n\nMonitoring Metrics and Alerts\n\nView More… \n\nKey Concepts\n\nIdentity Resolution\n\nConsent & Privacy\n\nClient & Server Side Cookies\n\nView More… \n\nPipeline & Profiles\n\nData Pipeline\n\nSchema Management\n\nIdentity\n\nWarehouse Access\n\nWhat is Cloud Connect?\n\nConnecting Warehouses\n\nData Models & Queries\n\nView More… \n\nAudiences & Activation\n\nUser Profiles\n\nAudiences\n\nReports\n\nView More… \n\nTutorials\n\nLeveraging User Profiles\n\nData Collection & Onboarding\n\nData Management\n\nView More… \n\nSDKs & Tools\n\nWeb\n\nMobile\n\nChrome Extension\n\nIntegrations\n\nLytics Integration Options\n\nAcoustic\n\nAdobe\n\nView More… \n\nPartners\n\nPartner Types\n\nLytics Communication\n\nLegacy\n\nInsights\n\nImporting External Experiences\n\nIDP-initiated SSO (legacy)\n\nView More… \n\n",
+  "platform": "lytics",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Lytics CDP"
+    }
+  ]
+}

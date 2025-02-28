@@ -1,0 +1,32 @@
+{
+  "url": "https://docs.mparticle.com/guides/",
+  "title": "Untitled",
+  "content": "Learn to manage your data in the mParticle dashboard. Learn More",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Guides"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}

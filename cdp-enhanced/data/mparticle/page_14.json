@@ -1,0 +1,136 @@
+{
+  "url": "https://docs.mparticle.com/integrations/amplitude/event",
+  "title": "Untitled",
+  "content": "Home Guides Developers Integrations Changelog Documentation Developers Platform API Overview Accounts Apps Audiences Calculated Attributes Data Points Feeds Field Transformations Services Users Workspaces Data Subject Request API Version 1 and 2 Data Subject Request API Version 3 Warehouse Sync API Overview Warehouse Sync API Tutorial Warehouse Sync API Reference Data Mapping Warehouse Sync SQL Reference Warehouse Sync Troubleshooting Guide ComposeID Warehouse Sync API v2 Migration Calculated Attributes Seeding API Bulk Profile Deletion API Reference Custom Access Roles API Data Planning API Group Identity API Reference Pixel Service Profile API Events API mParticle JSON Schema Reference IDSync AMP SDK Initialization Configuration Network Security Configuration Event Tracking User Attributes IDSync Screen Events Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Push Notifications WebView Integration Logger Preventing Blocked HTTP Traffic with CNAME Linting Data Plans Troubleshooting the Android SDK API Reference Upgrade to Version 5 Cordova Plugin Identity Direct URL Routing FAQ Web Android iOS Getting Started Usage API Reference Initialization Configuration Event Tracking User Attributes IDSync Screen Tracking Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Push Notifications Webview Integration Upload Frequency App Extensions Preventing Blocked HTTP Traffic with CNAME Linting Data Plans Troubleshooting iOS SDK Social Networks iOS 14 Guide iOS 15 FAQ iOS 16 FAQ iOS 17 FAQ iOS 18 FAQ API Reference Upgrade to Version 7 Getting Started Identity Media Getting Started Identity Upload Frequency Getting Started Opt Out Initialize the SDK Event Tracking Commerce Tracking Error Tracking Screen Tracking Identity Location Tracking Session Management Getting Started Identity Initialization Configuration Content Security Policy Event Tracking User Attributes IDSync Page View Tracking Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Custom Logger Persistence Native Web Views Self-Hosting Multiple Instances Web SDK via Google Tag Manager Preventing Blocked HTTP Traffic with CNAME Facebook Instant Articles Troubleshooting the Web SDK Browser Compatibility Linting Data Plans API Reference Upgrade to Version 2 of the SDK Getting Started Identity Web Alexa Android iOS Web mParticle Command Line Interface Linting Tools Smartype Node SDK Go SDK Python SDK Ruby SDK Java SDK Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Step 9. Test your local app Step 1. Create an input Step 2. Create an output Step 3. Verify output Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Step 1. Create an input Step 2. Create an output Step 3. Verify output Step 1. Create an input Step 2. Create an output Step 3. Verify output Step 1. Create an input Step 2. Create an output Step 3. Verify output Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Introduction Outbound Integrations Firehose Java SDK Inbound Integrations Overview Android Kit Integration JavaScript Kit Integration iOS Kit Integration Compose ID Data Hosting Locations Glossary Migrate from Segment to mParticle Migrate from Segment to Client-side mParticle Migrate from Segment to Server-side mParticle Segment-to-mParticle Migration Reference Rules Developer Guide API Credential Management The Developer's Guided Journey to mParticle Guides Create an Input Start capturing data Connect an Event Output Create an Audience Connect an Audience Output Transform and Enhance Your Data Introduction Profiles Audiences Overview Create an Audience Connect an Audience Manage Audiences Real-time Audiences (Legacy) Standard Audiences (Legacy) Calculated Attributes Overview Using Calculated Attributes Create with AI Assistance Calculated Attributes Reference Predictive Audiences Overview Using Predictive Audiences Journeys Overview Manage Journeys Download an audience from a journey Audience A/B testing from a journey Journeys 2.0 What are predictive attributes? Create Future Prediction Use Future Predictions in Campaigns Assess and Troubleshoot Predictions Next Best Action Overview Create a Next Best Action (NBA) View and Manage NBAs Activate Next Best Actions in Campaigns Usage and Billing Report The new mParticle Experience The Overview Map Observability Overview Observability User Guide Observability Troubleshooting Examples Observability Span Glossary Introduction Data Retention Connections Activity Live Stream Data Filter Rules Tiered Events mParticle Users and Roles Analytics Free Trial Troubleshooting mParticle Usage metering for value-based pricing (VBP) Introduction Sync and Activate Analytics User Segments in mParticle User Segment Activation Welcome Page Announcements Project Settings Roles and Teammates Organization Settings Global Project Filters Portfolio Analytics Analytics Data Manager Overview Events Event Properties User Properties Revenue Mapping Export Data UTM Guide Data Dictionary Query Builder Overview Modify Filters With And/Or Clauses Query-time Sampling Query Notes Filter Where Clauses Event vs. User Properties Group By Clauses Annotations Cross-tool Compatibility Apply All for Filter Where Clauses Date Range and Time Settings Overview User Attributes at Event Time Understanding the Screen View Event Analyses Introduction Getting Started Visualization Options For Clauses Date Range and Time Settings Calculator Numerical Settings Assisted Analysis Properties Explorer Frequency in Segmentation Trends in Segmentation Did [not] Perform Clauses Cumulative vs. Non-Cumulative Analysis in Segmentation Total Count of vs. Users Who Performed Save Your Segmentation Analysis Export Results in Segmentation Explore Users from Segmentation Getting Started with Funnels Group By Settings Conversion Window Tracking Properties Date Range and Time Settings Visualization Options Interpreting a Funnel Analysis Group By Filters Conversion over Time Conversion Order Trends Funnel Direction Multi-path Funnels Analyze as Cohort from Funnel Save a Funnel Analysis Explore Users from a Funnel Export Results from a Funnel Getting Started with Cohorts Analysis Modes Save a Cohort Analysis Export Results Explore Users Saved Analyses Manage Analyses in Dashboards Getting Started Event Menu Visualization Ending Event Save a Journey Analysis Getting Started User Activity Timelines Time Settings Export Results Save A User Analysis DashboardsââGetting Started Manage Dashboards Dashboard Filters Organize Dashboards Scheduled Reports Favorites Time and Interval Settings in Dashboards Query Notes in Dashboards User Aliasing The Demo Environment Keyboard Shortcuts Analytics for Marketers Analytics for Product Managers Compare Conversion Across Acquisition Sources Analyze Product Feature Usage Identify Points of User Friction Time-based Subscription Analysis Dashboard Tips and Tricks Understand Product Stickiness Optimize User Flow with A/B Testing User Segments User Segments Export API Dashboard Filter API IDSync Overview Use Cases for IDSync Components of IDSync Store and Organize User Data Identify Users Default IDSync Configuration Profile Conversion Strategy Profile Link Strategy Profile Isolation Strategy Best Match Strategy Aliasing Overview Create and Manage Group Definitions Introduction Catalog Live Stream Data Plans Blocked Data Backfill Guide Warehouse Sync Data Privacy Controls Data Subject Requests Default Service Limits Feeds Cross-Account Audience Sharing Approved Sub-Processors Import Data with CSV Files CSV File Reference Glossary Video Index Single Sign-On (SSO) Setup Examples Debug Console Data Warehouse Delay Alerting Introduction Introduction Introduction Rudderstack Google Tag Manager Segment Advanced Data Warehouse Settings AWS Kinesis (Snowplow) AWS Redshift (Define Your Own Schema) AWS S3 Integration (Define Your Own Schema) AWS S3 (Snowplow Schema) BigQuery (Snowplow Schema) BigQuery Firebase Schema BigQuery (Define Your Own Schema) GCP BigQuery Export Snowflake (Snowplow Schema) Snowplow Schema Overview Snowflake (Define Your Own Schema) REST API Dashboard Filter API (Deprecated) User Segments Export API (Deprecated) SDKs Introduction React Native iOS Android Java JavaScript Python Object API Aliasing Integrations Event Audience Event Event Audience Feed Audience Event Feed Event Cookie Sync Platform SDK Events Server-to-Server Events Audience Audience Audience Event Audience Audience Event Feed Feed Event Event Feed Event Event Audience Data Warehouse Event Audience Event Event Event Audience Event Forwarding Data Subject Requests Audience Event Audience Event Forwarding Data Subject Requests Event Feed Event Event Forwarding Data Subject Requests Feed Event Event Event Feed Event Event Audience Event Audience Event Event Feed Event Feed Forwarding Data Subject Requests Event Forwarding Data Subject Requests Feed Event Audience Feed Forwarding Data Subject Requests Event Event Audience Event Audience Feed Event Feed Audience Event Feed Event Event Audience Feed Event Feed Forwarding Data Subject Requests Event Audience Event Custom Feed Event Feed Audience Event Feed Data Warehouse Event Event Event Audience Audience Audience Audience Event Audience Event Audience Event Audience Event Event Event Event Event Event Feed Feed Audience Audience Audience Audience Event Event Event Audience Event Audience Data Warehouse Event Cookie Sync Audience Event Event Event Event Event Feed Feed Event Event Event Audience Event Audience Event Audience Event Event Audience Feed Event Audience Feed Audience Feed Event Audience Audience Event Event Audience Event Event Event Audience Event Event Forwarding Data Subject Requests Feed Feed Event Feed Audience Audience Event Audience Event Audience Event Event Audience Feed Audience Event Event Audience Audience Audience Audience Event Audience Audience Event Forwarding Data Subject Requests Audience Event Audience Event Feed Event Event Event Audience Event Feed Event Event Audience Event Feed Event Event Event Audience Event Event Audience Event Feed Audience Inbound Data Subject Requests Event Event Feed Event Audience Event Audience Event Audience Event Feed Audience Event Event Event Event Audience Event Feed Audience Event Event Audience Event Event Feed Event Feed Audience Event Audience Event Audience Feed Event Audience Event Event Audience Event Event Event Feed Audience Feed Audience Feed Custom Pixel Feed Event Feed Event Event Event Event Audience Event Event Audience Event Event Event Event Feed Event Data Warehouse Event Audience Audience Feed Event Audience Event Audience Event Feed Loyalty Feed Event Feed Audience Audience Event Audience Audience Audience Cookie Sync Event Feed Audience Audience (Deprecated) Event Audience Migration Audience Event Event Audience Event Audience Event Audience Audience Event Audience Event Event Event Event Cookie Sync Audience Audience Cookie Sync Feed Audience Event Feed Event Event Audience Event Event Amplitude provides product analytics that helps companies leverage cross-platform behavioral data to drive user growth. Supported Features Analytics Data Export Real-Time Dashboards Retroactive Funnels Prerequisites To activate mParticleâs integration with Amplitude, you need the Amplitude API Key for each app that youâd like to set up. Your API key is listed on the Amplitude Project Settings page. The Amplitude integration requires the mParticle Amplitude Kit when connected to a web input. If you are initializing the web SDK using the Snippet Option then the Kit is automatically included for you. If you are Self Hosting the SDK then you need to add this kit manually into your source code. Data Processing Notes mParticle will forward User Identities and Attributes to Amplitude, even if there are no events in the batch. Device/User ID Mapping Every event in Amplitude has a main Device ID field. mParticle populates this field as follows: For Android, the Android ID (falling back to the Android Advertising ID if unavailable) For iOS, the IDFA (falling back to the IDFV if unavailable) For Roku, the Roku Advertising ID (falling back to the Roku Publisher ID if not available) For FireTV, the Fire Advertising ID. Amplitude also has dedicated fields for particular Device IDs, such as IDFA and Android ID. These will be populated if the ID is available. See Field Mappings, for more information. Amplitude requires either a Device ID or a User ID. User ID can be mapped as Email, Customer ID or mParticle ID. If no accepted identifiers are present, data will not be forwarded. Forwarding Web Data By default, mParticle forwards web data to Amplitude client-side, by directly invoking Amplitudeâs Javascript methods. Optionally, you can choose to forward web data server-to-server in the Connection Settings. Note that if you choose this option, your incoming data must have your selected User ID to be forwarded. Data Localization By default, mParticle sends data to the Amplitude organizationâs US endpoint for the HTTP API, but Amplitude offers a different endpoint for EU organizations. In mParticle, the Amplitude Organization Configuration Setting allows you to select a target Amplitude organization location. Event Data Mapping Screen Views mParticle will forward all screen views to Amplitude with the Amplitude Event Type set to âViewed ScreenNameâ, where ScreenName is the screen name passed to the logScreen SDK method (or the name of the screenâs Activity class if youâre using automatic screen tracking on Android). Session Forwarding mParticle will forward all session start and session end events to Amplitude with the Amplitude Event Type set to session_start and session_end. eCommerce Event Forwarding Each valid eCommerce event sent to mParticle is expanded into multiple events before being translated and forwarded to Amplitude. While this expansion applies to all eCommerce transactions, the resulting events are dependent on the type of eCommerce event being forwarded and the number of products in the event. Note: mParticle will not attempt to forward eCommerce Events to Amplitude which contain no Products. The eCommerce events resulting from the expansion that may be forwarded to Amplitude are: Transaction level events (e.g. eCommerce - Purchase) Item level events (e.g. eCommerce - Purchase - Item) Revenue events (e.g. [Amplitude] Revenue) Transaction Event One Transaction Event is forwarded to Amplitude for every valid eCommerce event provided. Contains a summary of the transaction, including a JSON array of the products sent in the initial eCommerce event. Item Events One Item Event is forwarded to Amplitude for every product inside the provided eCommerce event. Each Item event contains information about one of the products in the provided eCommerce event. Revenue Event One Revenue Event is forwarded to Amplitude for every valid Purchase or Refund eCommerce event provided. Otherwise none is sent. The name of the Revenue Event is set by Amplitude, and contains revenue information about the Purchase or Refund event. eCommerce Event Naming Each valid eCommerce event sent to mParticle will result in a transaction level event being sent to Amplitude. This event contains a summary of the transaction, including a JSON array of the products sent in the initial eCommerce event. The name given to the Transaction and Item Level Events is determined from the Product Action provided on the eCommerce Event sent to mParticle. Custom Event Forwarding Custom events logged via mParticleâs logEvent SDK method and their attributes will be forwarded to Amplitude, with the event name passed to logEvent as the Amplitude Event Type. An event name must be specified or an error will be returned. Attribution Custom Event Forwarding Attribution Custom events will be forwarded to Amplitude prefixed with the attribution provider in the event name. For example, [AppsFlyer] attribution. Event Attributes that are included with the event are forwarded to Amplitude in user_properties, also prefixed with the attribution provider. Push Registration mParticle will forward all push registration events to Amplitude with the Amplitude Event Type set to Push Registration. All Field Mappings defined in this documentation will be forwarded too. Application State Transition Forwarding If the Send Application State Transitions setting is enabled, Application State Transition events will be forwarded to Amplitude as follows: Field Mappings Server to Server Web Requests Only for web requests, mParticle will extract OS and browser info from HTTP user agent. Similar to Amplitudeâs SDK behavior, os_name and os_version will be populated with browser info. For that reason, mParticle will send 2 additional Custom User Properties, web_os_name and web_os_version, that will contain OS info. See Amplitudeâs doc. mParticle will also populate device_brand and device_model from the HTTP user agent if the Extract Device Family from User Agent setting is enabled. With this setting enabled, if mParticle cannot determine the device brand or model, it will populate device_brand with the same value as is set for web_os_name. Note, the device values may differ slightly between S2S events and events sent through the Amplitude web kit. Configuration Settings Connection Settings CDP mParticle Docs Home Guides Developers Integrations Analytics Analytics Docs Overview Getting Started Developers Expert Training Predictive AI Cortex Docs Overview Getting Started Developers Using Cortex Learn More Blog Podcast Resources Community Change log Get in Touch Help Center Demo Become a Partner",
+  "headings": [
+    {
+      "level": 4,
+      "text": "Documentation"
+    },
+    {
+      "level": 2,
+      "text": "Developers"
+    },
+    {
+      "level": 2,
+      "text": "Guides"
+    },
+    {
+      "level": 2,
+      "text": "Integrations"
+    },
+    {
+      "level": 1,
+      "text": "Event"
+    },
+    {
+      "level": 2,
+      "text": "Supported Features"
+    },
+    {
+      "level": 2,
+      "text": "Prerequisites"
+    },
+    {
+      "level": 2,
+      "text": "Data Processing Notes"
+    },
+    {
+      "level": 2,
+      "text": "Device/User ID Mapping"
+    },
+    {
+      "level": 2,
+      "text": "Forwarding Web Data"
+    },
+    {
+      "level": 2,
+      "text": "Data Localization"
+    },
+    {
+      "level": 2,
+      "text": "Event Data Mapping"
+    },
+    {
+      "level": 3,
+      "text": "Screen Views"
+    },
+    {
+      "level": 3,
+      "text": "Session Forwarding"
+    },
+    {
+      "level": 3,
+      "text": "eCommerce Event Forwarding"
+    },
+    {
+      "level": 4,
+      "text": "Transaction Event"
+    },
+    {
+      "level": 4,
+      "text": "Item Events"
+    },
+    {
+      "level": 4,
+      "text": "Revenue Event"
+    },
+    {
+      "level": 4,
+      "text": "eCommerce Event Naming"
+    },
+    {
+      "level": 3,
+      "text": "Custom Event Forwarding"
+    },
+    {
+      "level": 3,
+      "text": "Attribution Custom Event Forwarding"
+    },
+    {
+      "level": 3,
+      "text": "Push Registration"
+    },
+    {
+      "level": 3,
+      "text": "Application State Transition Forwarding"
+    },
+    {
+      "level": 2,
+      "text": "Field Mappings"
+    },
+    {
+      "level": 3,
+      "text": "Server to Server Web Requests"
+    },
+    {
+      "level": 2,
+      "text": "Configuration Settings"
+    },
+    {
+      "level": 2,
+      "text": "Connection Settings"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}

@@ -1,0 +1,48 @@
+{
+  "url": "https://docs.lytics.com/changelog",
+  "title": "Product Updates",
+  "content": "Inspiration Filters, Adobe, OneTrust, Classification Resolved internal link issues, enhanced Adobe and OneTrust integrations, streamlined onboarding alerts, and added filtering for home Inspiration cards. Academy, Inspirations and an all new Dashboard! We've officially released the new and improved application home page! Here is an overview of what you'll get with this new experience. Content Collection List View Improvements Content Collection list view bug fixes and metric freshness timestamp. Help Center, Assertions and Credit Usage We've fully launched the new and improved Help Center, better credit usage information for Developer and Growth accounts along with assertion management within Schema Studio! New billing and package management We've released the new package and billing portal to all Developer and Growth tier accounts. Now you can upgrade directly from the interface. In addition, we've added an improved interface for \"active\" Lookalike models and more. Improved Job status, metric freshness timestamp, Chrome extension and more. Updates include refining job statuses to show as Running, a timestamp to indicate when metrics were last updated, instructions for setting up the Chrome Extension, and improved URL matching for easier classification. Lookalike dashboard, onboarding wizard, general UI We've launched the new.home dashboard in beta, fixed issues with report overlaps and onboarding channel selection, and removed distracting icons for a cleaner interface. A bug allowing empty segment selections in job configurations, which led to failures, has been corrected. WordPress plugin now available We've officially launched our WordPress plugin, which brings many of the core personalization and content-related features from Lytics directly to your favorite content management system. Classification URL validation and skipping auth setup We've reworked the content classification dashboard. This page now includes much more information related to the status of your classification, insights into potential issues, and more. Onboarding wizard, UI enhancements and bug fixes The content classification dashboard now offers enhanced status insights and issue detection. We’ve set default sorting for job types and providers by name, improved login validation for de-authenticated users, refined the onboarding wizard experience and made typography globally consistent for better readability.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Inspiration Filters, Adobe, OneTrust, Classification"
+    },
+    {
+      "level": 1,
+      "text": "Academy, Inspirations and an all new Dashboard!"
+    },
+    {
+      "level": 1,
+      "text": "Content Collection List View Improvements"
+    },
+    {
+      "level": 1,
+      "text": "Help Center, Assertions and Credit Usage"
+    },
+    {
+      "level": 1,
+      "text": "New billing and package management"
+    },
+    {
+      "level": 1,
+      "text": "Improved Job status, metric freshness timestamp, Chrome extension and more."
+    },
+    {
+      "level": 1,
+      "text": "Lookalike dashboard, onboarding wizard, general UI"
+    },
+    {
+      "level": 1,
+      "text": "WordPress plugin now available"
+    },
+    {
+      "level": 1,
+      "text": "Classification URL validation and skipping auth setup"
+    },
+    {
+      "level": 1,
+      "text": "Onboarding wizard, UI enhancements and bug fixes"
+    }
+  ],
+  "platform": "lytics"
+}

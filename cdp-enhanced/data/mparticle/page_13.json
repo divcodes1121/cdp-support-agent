@@ -1,0 +1,128 @@
+{
+  "url": "https://docs.mparticle.com/integrations/facebook/event",
+  "title": "Untitled",
+  "content": "Home Guides Developers Integrations Changelog Documentation Developers Platform API Overview Accounts Apps Audiences Calculated Attributes Data Points Feeds Field Transformations Services Users Workspaces Data Subject Request API Version 1 and 2 Data Subject Request API Version 3 Warehouse Sync API Overview Warehouse Sync API Tutorial Warehouse Sync API Reference Data Mapping Warehouse Sync SQL Reference Warehouse Sync Troubleshooting Guide ComposeID Warehouse Sync API v2 Migration Calculated Attributes Seeding API Bulk Profile Deletion API Reference Custom Access Roles API Data Planning API Group Identity API Reference Pixel Service Profile API Events API mParticle JSON Schema Reference IDSync AMP SDK Initialization Configuration Network Security Configuration Event Tracking User Attributes IDSync Screen Events Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Push Notifications WebView Integration Logger Preventing Blocked HTTP Traffic with CNAME Linting Data Plans Troubleshooting the Android SDK API Reference Upgrade to Version 5 Cordova Plugin Identity Direct URL Routing FAQ Web Android iOS Getting Started Usage API Reference Initialization Configuration Event Tracking User Attributes IDSync Screen Tracking Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Push Notifications Webview Integration Upload Frequency App Extensions Preventing Blocked HTTP Traffic with CNAME Linting Data Plans Troubleshooting iOS SDK Social Networks iOS 14 Guide iOS 15 FAQ iOS 16 FAQ iOS 17 FAQ iOS 18 FAQ API Reference Upgrade to Version 7 Getting Started Identity Media Getting Started Identity Upload Frequency Getting Started Opt Out Initialize the SDK Event Tracking Commerce Tracking Error Tracking Screen Tracking Identity Location Tracking Session Management Getting Started Identity Initialization Configuration Content Security Policy Event Tracking User Attributes IDSync Page View Tracking Commerce Events Location Tracking Media Kits Application State and Session Management Data Privacy Controls Error Tracking Opt Out Custom Logger Persistence Native Web Views Self-Hosting Multiple Instances Web SDK via Google Tag Manager Preventing Blocked HTTP Traffic with CNAME Facebook Instant Articles Troubleshooting the Web SDK Browser Compatibility Linting Data Plans API Reference Upgrade to Version 2 of the SDK Getting Started Identity Web Alexa Android iOS Web mParticle Command Line Interface Linting Tools Smartype Node SDK Go SDK Python SDK Ruby SDK Java SDK Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Step 9. Test your local app Step 1. Create an input Step 2. Create an output Step 3. Verify output Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Step 1. Create an input Step 2. Create an output Step 3. Verify output Step 1. Create an input Step 2. Create an output Step 3. Verify output Step 1. Create an input Step 2. Create an output Step 3. Verify output Overview Step 1. Create an input Step 2. Verify your input Step 3. Set up your output Step 4. Create a connection Step 5. Verify your connection Step 6. Track events Step 7. Track user data Step 8. Create a data plan Introduction Outbound Integrations Firehose Java SDK Inbound Integrations Overview Android Kit Integration JavaScript Kit Integration iOS Kit Integration Compose ID Data Hosting Locations Glossary Migrate from Segment to mParticle Migrate from Segment to Client-side mParticle Migrate from Segment to Server-side mParticle Segment-to-mParticle Migration Reference Rules Developer Guide API Credential Management The Developer's Guided Journey to mParticle Guides Create an Input Start capturing data Connect an Event Output Create an Audience Connect an Audience Output Transform and Enhance Your Data Introduction Profiles Audiences Overview Create an Audience Connect an Audience Manage Audiences Real-time Audiences (Legacy) Standard Audiences (Legacy) Calculated Attributes Overview Using Calculated Attributes Create with AI Assistance Calculated Attributes Reference Predictive Audiences Overview Using Predictive Audiences Journeys Overview Manage Journeys Download an audience from a journey Audience A/B testing from a journey Journeys 2.0 What are predictive attributes? Create Future Prediction Use Future Predictions in Campaigns Assess and Troubleshoot Predictions Next Best Action Overview Create a Next Best Action (NBA) View and Manage NBAs Activate Next Best Actions in Campaigns Usage and Billing Report The new mParticle Experience The Overview Map Observability Overview Observability User Guide Observability Troubleshooting Examples Observability Span Glossary Introduction Data Retention Connections Activity Live Stream Data Filter Rules Tiered Events mParticle Users and Roles Analytics Free Trial Troubleshooting mParticle Usage metering for value-based pricing (VBP) Introduction Sync and Activate Analytics User Segments in mParticle User Segment Activation Welcome Page Announcements Project Settings Roles and Teammates Organization Settings Global Project Filters Portfolio Analytics Analytics Data Manager Overview Events Event Properties User Properties Revenue Mapping Export Data UTM Guide Data Dictionary Query Builder Overview Modify Filters With And/Or Clauses Query-time Sampling Query Notes Filter Where Clauses Event vs. User Properties Group By Clauses Annotations Cross-tool Compatibility Apply All for Filter Where Clauses Date Range and Time Settings Overview User Attributes at Event Time Understanding the Screen View Event Analyses Introduction Getting Started Visualization Options For Clauses Date Range and Time Settings Calculator Numerical Settings Assisted Analysis Properties Explorer Frequency in Segmentation Trends in Segmentation Did [not] Perform Clauses Cumulative vs. Non-Cumulative Analysis in Segmentation Total Count of vs. Users Who Performed Save Your Segmentation Analysis Export Results in Segmentation Explore Users from Segmentation Getting Started with Funnels Group By Settings Conversion Window Tracking Properties Date Range and Time Settings Visualization Options Interpreting a Funnel Analysis Group By Filters Conversion over Time Conversion Order Trends Funnel Direction Multi-path Funnels Analyze as Cohort from Funnel Save a Funnel Analysis Explore Users from a Funnel Export Results from a Funnel Getting Started with Cohorts Analysis Modes Save a Cohort Analysis Export Results Explore Users Saved Analyses Manage Analyses in Dashboards Getting Started Event Menu Visualization Ending Event Save a Journey Analysis Getting Started User Activity Timelines Time Settings Export Results Save A User Analysis DashboardsââGetting Started Manage Dashboards Dashboard Filters Organize Dashboards Scheduled Reports Favorites Time and Interval Settings in Dashboards Query Notes in Dashboards User Aliasing The Demo Environment Keyboard Shortcuts Analytics for Marketers Analytics for Product Managers Compare Conversion Across Acquisition Sources Analyze Product Feature Usage Identify Points of User Friction Time-based Subscription Analysis Dashboard Tips and Tricks Understand Product Stickiness Optimize User Flow with A/B Testing User Segments User Segments Export API Dashboard Filter API IDSync Overview Use Cases for IDSync Components of IDSync Store and Organize User Data Identify Users Default IDSync Configuration Profile Conversion Strategy Profile Link Strategy Profile Isolation Strategy Best Match Strategy Aliasing Overview Create and Manage Group Definitions Introduction Catalog Live Stream Data Plans Blocked Data Backfill Guide Warehouse Sync Data Privacy Controls Data Subject Requests Default Service Limits Feeds Cross-Account Audience Sharing Approved Sub-Processors Import Data with CSV Files CSV File Reference Glossary Video Index Single Sign-On (SSO) Setup Examples Debug Console Data Warehouse Delay Alerting Introduction Introduction Introduction Rudderstack Google Tag Manager Segment Advanced Data Warehouse Settings AWS Kinesis (Snowplow) AWS Redshift (Define Your Own Schema) AWS S3 Integration (Define Your Own Schema) AWS S3 (Snowplow Schema) BigQuery (Snowplow Schema) BigQuery Firebase Schema BigQuery (Define Your Own Schema) GCP BigQuery Export Snowflake (Snowplow Schema) Snowplow Schema Overview Snowflake (Define Your Own Schema) REST API Dashboard Filter API (Deprecated) User Segments Export API (Deprecated) SDKs Introduction React Native iOS Android Java JavaScript Python Object API Aliasing Integrations Event Audience Event Event Audience Feed Audience Event Feed Event Cookie Sync Platform SDK Events Server-to-Server Events Audience Audience Audience Event Audience Audience Event Feed Feed Event Event Feed Event Event Audience Data Warehouse Event Audience Event Event Event Audience Event Forwarding Data Subject Requests Audience Event Audience Event Forwarding Data Subject Requests Event Feed Event Event Forwarding Data Subject Requests Feed Event Event Event Feed Event Event Audience Event Audience Event Event Feed Event Feed Forwarding Data Subject Requests Event Forwarding Data Subject Requests Feed Event Audience Feed Forwarding Data Subject Requests Event Event Audience Event Audience Feed Event Feed Audience Event Feed Event Event Audience Feed Event Feed Forwarding Data Subject Requests Event Audience Event Custom Feed Event Feed Audience Event Feed Data Warehouse Event Event Event Audience Audience Audience Audience Event Audience Event Audience Event Audience Event Event Event Event Event Event Feed Feed Audience Audience Audience Audience Event Event Event Audience Event Audience Data Warehouse Event Cookie Sync Audience Event Event Event Event Event Feed Feed Event Event Event Audience Event Audience Event Audience Event Event Audience Feed Event Audience Feed Audience Feed Event Audience Audience Event Event Audience Event Event Event Audience Event Event Forwarding Data Subject Requests Feed Feed Event Feed Audience Audience Event Audience Event Audience Event Event Audience Feed Audience Event Event Audience Audience Audience Audience Event Audience Audience Event Forwarding Data Subject Requests Audience Event Audience Event Feed Event Event Event Audience Event Feed Event Event Audience Event Feed Event Event Event Audience Event Event Audience Event Feed Audience Inbound Data Subject Requests Event Event Feed Event Audience Event Audience Event Audience Event Feed Audience Event Event Event Event Audience Event Feed Audience Event Event Audience Event Event Feed Event Feed Audience Event Audience Event Audience Feed Event Audience Event Event Audience Event Event Event Feed Audience Feed Audience Feed Custom Pixel Feed Event Feed Event Event Event Event Audience Event Event Audience Event Event Event Event Feed Event Data Warehouse Event Audience Audience Feed Event Audience Event Audience Event Feed Loyalty Feed Event Feed Audience Audience Event Audience Audience Audience Cookie Sync Event Feed Audience Audience (Deprecated) Event Audience Migration Audience Event Event Audience Event Audience Event Audience Audience Event Audience Event Event Event Event Cookie Sync Audience Audience Cookie Sync Feed Audience Event Feed Event Event Audience Event Event This section describes the configuration settings necessary to activate mParticleâs event tracking integration with Facebook. The event tracking integration enables conversion tracking for Facebook advertising campaigns. Supported Features Event Forwarding Data Processing Notes Facebook has limits around the number of unique event names and attributes their platform can process as noted here: https://developers.facebook.com/docs/reference/android/current/class/AppEventsLogger/ 1000 unique event names 25 attributes per event Between 2 and 40 characters in an event name and attribute It may takes up to 24 hours to see refreshed stats in Facebook Analytics Prerequisites Event data from mParticle to Facebook is typically sent server side. However, Web data can be sent client or server side based on your implementation and settings. These different options require different settings: iOS, tvOS, and Android - data is sent S2S, and youâll need your appâs Facebook Application ID and Application Secret Data Feeds - data is sent S2S, and youâll need your Facebook Pixel ID Web - for client side kit, youâll need your Facebook Pixel ID Web - for S2S, youâll need your Facebook Pixel ID and Facebook Marketing API Access Token. You also need to enable both the Use Pixel Server-Side Forwarding and Forward Web Requests Server Side settings. Roku, Xbox, SmartTV, FireTV, Alexa - youâll need your Facebook Pixel ID and Facebook Marketing API Access Token. os_version is required for iOS/tvOS events. If os_version is not present, the event will be rejected and an error message will be shown in System Alerts. Configuring Facebook Pixel Server-to-Server You need to perform a few steps in Facebook to create a Facebook Pixel S2S connection. Navigate to the Facebook Events Manager Connect a New Data Source: Select Web with a connection method of Conversions API. Create an Access Token: Open the settings for the new Pixel Data Source, scroll to the Conversions API > Set up manually section and click Create Access Token. Follow the steps described and copy the Access Token for setup in mParticle. Configuring Duplicate Events Facebook recommends sending the same pixel event twice - once from the browser and once from the server. If done incorrectly, this can result in duplicate events appearing in Facebook. The following steps walk through how to configure this within mParticle. Using only the mParticle Web SDK (Recommended) To do this using mParticle, you will need to perform the following steps: Setup the mParticle Web SDK in your application Setup two configurations for mParticleâs Facebook integration. One of these configurations must have Use Pixel Server-Side Forwarding enabled and the other must not. Both must have an access token set. Connect both of these configurations to your Web input. The configuration with server-side Pixel forwarding enabled, must also have Forward Web Requests Server Side enabled. Similarly, the connection with Pixel server-side forwarding disabled, must have Forward Web Requests Server Side disabled. Other Scenarios Ideally, all Web data sent to mParticle will be sent through the mParticle Web SDK, but it is still possible to deduplicate events outside of this flow if necessary. To ensure redundant events sent through Facebook Pixel and the Facebook Conversions API are correctly deduplicated when they reach Facebook, two conditions must be met: Events must have consistent event_name values. Events must have consistent event_id values. For this, the field source_message_id may be used to manually set the Event ID sent to Facebook. If you use the mParticle Web SDK and server-side web integration, then this will be automatically handled. If you need to manually assign a source_message_id via the web SDK and server-side separately, use the following API: You can also assign a source_message_id to commerce events: Note that your workspace will need to be on event batching in order to leverage passing a custom source_message_id to the Web SDK for this to work. If you are not on web batching, please contact your customer success manager. Visit the Facebook Business Help Center and Facebook For Developers for more information on the subject of deduplication. Troubleshooting Facebook Pixel Issues Please run through the following steps to confirm your settings are correct: Verify your access token is of type System User and will never expire using this page: https://developers.facebook.com/tools/debug/accesstoken/ Verify your Pixel ID is valid using this page. Please enter the ID and confirm the Send To Test Events works: https://developers.facebook.com/docs/marketing-api/conversions-api/payload-helper/ If you run into issues with either of the above steps, please repeat the steps described in Configuring Facebook Pixel Server-to-Server. Event Data Mapping The iOS/tvOS and Android integrations forward App State Transition, Commerce, Custom, Screen View, and Session Start events. The Web integration forwards Commerce, Custom, Screen View, and Session Start / End events. iOS14 Update for Device Data Mapping The Facebook advertiser_tracking_enabled field is set based on the att_authorization_status and limit_ad_tracking fields as defined below. Check the iOS14 Implementation guide for more information. If att_authorization_status is available: If att_authorization_status is not available, the limit_ad_tracking field is evaluated: User Data Mappings mParticle will send a variety of user data fields to Facebook for advanced matching. The specific fields sent depends on if Facebook Pixel server-side forwarding is enabled or not. Facebook Pixel Server-Side Forwarding Disabled mParticle will hash and send the following fields to Facebook when they are set for a user. Facebook Pixel Server-Side Forwarding Enabled Custom Mappings mParticleâs Facebook integration supports custom mappings which allows you to map your events and attributes for Facebook. mParticle provides mappings for the following Facebook event types: fb_content_type When setting up the custom mappings, the fb_content_type can provide additional information on the event to be used for Collaborative Ads. The acceptable values for fb_content_type are: product product_group destination flight hotel vehicle [âproductâ, âlocal_service_businessâ] If a value provided for fb_content_type is not in the above list, the value sent will be product. Product Events mParticle forwards the mParticle product events Added to Cart and Added to Wishlist to Facebook using Facebookâs corresponding pre-defined event names. mParticle Product Views are forwarded to Facebook as the pre-defined event âViewed Contentâ. The unit price, currency, product category, and SKU are passed to Facebook as well. See below for a sample Added to Cart event call using the Facebook SDK, and an equivalent call using the mParticle SDK. Purchase Events Purchase events logged through mParticleâs eCommerce SDK methods will be forwarded to Facebook using Facebookâs âPurchasedâ pre-defined event name. Custom Events All custom app events, which are logged via mParticleâs logEvent SDK method, will be forwarded to Facebook as custom app events, using the event name passed to mParticleâs logEvent SDK method. Screen Views For the Web platform, mParticle will forward screen views as âPageViewâ events. Note: This also applies to Pixel server-side forwarding. For the iOS/tvOS and Android platforms, screen views are supported by custom mappings. Reference the custom mappings section for more. Web Server-to-Server Fields There are several fields only accepted by server-to-server Web connections. These fields and the mParticle fields they are set from are listed below: *Custom data fields can also be set via custom mappings or E-Commerce event fields. See the relevant sections for more details. Configuration Settings Connection Settings CDP mParticle Docs Home Guides Developers Integrations Analytics Analytics Docs Overview Getting Started Developers Expert Training Predictive AI Cortex Docs Overview Getting Started Developers Using Cortex Learn More Blog Podcast Resources Community Change log Get in Touch Help Center Demo Become a Partner",
+  "headings": [
+    {
+      "level": 4,
+      "text": "Documentation"
+    },
+    {
+      "level": 2,
+      "text": "Developers"
+    },
+    {
+      "level": 2,
+      "text": "Guides"
+    },
+    {
+      "level": 2,
+      "text": "Integrations"
+    },
+    {
+      "level": 1,
+      "text": "Event"
+    },
+    {
+      "level": 2,
+      "text": "Supported Features"
+    },
+    {
+      "level": 3,
+      "text": "Data Processing Notes"
+    },
+    {
+      "level": 2,
+      "text": "Prerequisites"
+    },
+    {
+      "level": 3,
+      "text": "Configuring Facebook Pixel Server-to-Server"
+    },
+    {
+      "level": 3,
+      "text": "Configuring Duplicate Events"
+    },
+    {
+      "level": 4,
+      "text": "Using only the mParticle Web SDK (Recommended)"
+    },
+    {
+      "level": 4,
+      "text": "Other Scenarios"
+    },
+    {
+      "level": 4,
+      "text": "Troubleshooting Facebook Pixel Issues"
+    },
+    {
+      "level": 2,
+      "text": "Event Data Mapping"
+    },
+    {
+      "level": 3,
+      "text": "iOS14 Update for Device Data Mapping"
+    },
+    {
+      "level": 3,
+      "text": "User Data Mappings"
+    },
+    {
+      "level": 3,
+      "text": "Custom Mappings"
+    },
+    {
+      "level": 4,
+      "text": "fb_content_type"
+    },
+    {
+      "level": 3,
+      "text": "Product Events"
+    },
+    {
+      "level": 3,
+      "text": "Purchase Events"
+    },
+    {
+      "level": 3,
+      "text": "Custom Events"
+    },
+    {
+      "level": 3,
+      "text": "Screen Views"
+    },
+    {
+      "level": 3,
+      "text": "Web Server-to-Server Fields"
+    },
+    {
+      "level": 2,
+      "text": "Configuration Settings"
+    },
+    {
+      "level": 2,
+      "text": "Connection Settings"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}

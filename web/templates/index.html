@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDP Support Agent</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-robot"></i>
+                    <h1>CDP Support Agent</h1>
+                </div>
+                <div class="platforms">
+                    <span class="platform-badge">Segment</span>
+                    <span class="platform-badge">mParticle</span>
+                    <span class="platform-badge">Lytics</span>
+                    <span class="platform-badge">Zeotap</span>
+                </div>
+            </div>
+        </header>
+        
+        <main class="chat-container">
+            <div class="messages" id="messages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello! I'm the CDP Support Agent. I can help you with questions about Segment, mParticle, Lytics, and Zeotap. How can I assist you today?</p>
+                        <p>Here are some examples of questions you can ask:</p>
+                        <ul>
+                            <li>How do I set up a new source in Segment?</li>
+                            <li>How can I create a user profile in mParticle?</li>
+                            <li>How do I build an audience segment in Lytics?</li>
+                            <li>How can I integrate my data with Zeotap?</li>
+                            <li>How does Segment's audience creation process compare to Lytics'?</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <textarea 
+                        id="user-input" 
+                        placeholder="Type your question here..." 
+                        rows="1"
+                        aria-label="Message Input"
+                    ></textarea>
+                    <button id="send-button" aria-label="Send Message">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

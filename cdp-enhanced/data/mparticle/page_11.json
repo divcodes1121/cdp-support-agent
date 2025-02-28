@@ -1,0 +1,32 @@
+{
+  "url": "https://docs.mparticle.com/developers/partners/firehose",
+  "title": "Untitled",
+  "content": "Not Found You hit a page that does not exist.",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Not Found"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}

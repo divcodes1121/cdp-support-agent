@@ -1,0 +1,152 @@
+{
+  "url": "https://docs.mparticle.com/developers/",
+  "title": "Untitled",
+  "content": "Home Guides Developers Integrations Changelog Developer Docs Shortcuts: Use the mParticle SDKs and APIs to collect, organize, and manage customer data. Quickstart Pick a platform, and follow the SDK quickstart tutorial to see how easy it is to collect data and forward it to a third-party integration. Learn about mParticle From event tracking to predicting user behavior, the developer docs guide you through each stage of building a complete mParticle implementation. SDK Client SDK Track and send customer data directly from your app to any server. Android iOS Web Alexa AMP Cordova Fire TV Flutter React Native Roku Unity Xbox Server SDK Track and send customer data between servers. Go Java Node Python Ruby Media SDK Track media events and heartbeats across three platforms. Android iOS Web API Events API Collect data for contexts too complex for the Server SDK. Bulk Profile Deletion API Save time when improving data quality by deleting data associated with sets of customers. Calculated Attributes API Send seeds for your calculated attributes. Custom Access Roles API Create and manage custom sets of permissions for your mParticle account users. Data Planning API Define your data schema with Data Master. Data Subject Request API Submit data subject requests for GDPR and CCPA compliance via the OpenDSR API. ID Sync API Match and resolve identities to build a single user profile for all user activities. Platform API Programmatically update your mParticle inputs, outputs, filters, and more. Pixel Service API Send data to mParticle from your web site via a tracking pixel. Profile API Access user profiles at scale to power personalized experiences. Group Identity API Create groups of users based on shared attributes. Warehouse Sync API Go beyond Reverse-ETL and build a headless data infrastructure. Tools mParticle CLI Access some mParticle features from a terminal. Smartype Manage your data plans as code. Smartype Linting Lint your code against your data plan. More Guides Data Hosting Understand how to reference the pod where your org is hosted. ComposeID Use IDSync to identify unknown users with data stored in Snowflake. Glossary List of mParticle-specific terms. Partners Become an mParticle partner and make your platform available for input or output. Rules Cleanse and transform data before it is output to another system. Segment Migration Migrate your Segment implementation to mParticle. CDP mParticle Docs Home Guides Developers Integrations Analytics Analytics Docs Overview Getting Started Developers Expert Training Predictive AI Cortex Docs Overview Getting Started Developers Using Cortex Learn More Blog Podcast Resources Community Change log Get in Touch Help Center Demo Become a Partner",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Developer Docs"
+    },
+    {
+      "level": 3,
+      "text": "Quickstart"
+    },
+    {
+      "level": 3,
+      "text": "Learn about mParticle"
+    },
+    {
+      "level": 2,
+      "text": "SDK"
+    },
+    {
+      "level": 3,
+      "text": "Client SDK"
+    },
+    {
+      "level": 3,
+      "text": "Server SDK"
+    },
+    {
+      "level": 3,
+      "text": "Media SDK"
+    },
+    {
+      "level": 2,
+      "text": "API"
+    },
+    {
+      "level": 3,
+      "text": "Events API"
+    },
+    {
+      "level": 3,
+      "text": "Bulk Profile Deletion API"
+    },
+    {
+      "level": 3,
+      "text": "Calculated Attributes API"
+    },
+    {
+      "level": 3,
+      "text": "Custom Access Roles API"
+    },
+    {
+      "level": 3,
+      "text": "Data Planning API"
+    },
+    {
+      "level": 3,
+      "text": "Data Subject Request API"
+    },
+    {
+      "level": 3,
+      "text": "ID Sync API"
+    },
+    {
+      "level": 3,
+      "text": "Platform API"
+    },
+    {
+      "level": 3,
+      "text": "Pixel Service API"
+    },
+    {
+      "level": 3,
+      "text": "Profile API"
+    },
+    {
+      "level": 3,
+      "text": "Group Identity API"
+    },
+    {
+      "level": 3,
+      "text": "Warehouse Sync API"
+    },
+    {
+      "level": 2,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "mParticle CLI"
+    },
+    {
+      "level": 3,
+      "text": "Smartype"
+    },
+    {
+      "level": 3,
+      "text": "Smartype Linting"
+    },
+    {
+      "level": 2,
+      "text": "More Guides"
+    },
+    {
+      "level": 3,
+      "text": "Data Hosting"
+    },
+    {
+      "level": 3,
+      "text": "ComposeID"
+    },
+    {
+      "level": 3,
+      "text": "Glossary"
+    },
+    {
+      "level": 3,
+      "text": "Partners"
+    },
+    {
+      "level": 3,
+      "text": "Rules"
+    },
+    {
+      "level": 3,
+      "text": "Segment Migration"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}

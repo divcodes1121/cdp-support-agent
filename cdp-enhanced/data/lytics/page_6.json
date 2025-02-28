@@ -1,0 +1,88 @@
+{
+  "url": "https://docs.lytics.com/docs/managing-cloud-connections",
+  "title": "Connecting Warehouses",
+  "content": "Quick Start Developer Quickstart1. Install the Lytics Tag2. Content Setup3. Surface Personalized MessageBuilding ProfilesDefault AttributesDefault SegmentsGuides & InspirationLead CaptureContent Recommendations 1. Install the Lytics Tag 2. Content Setup 3. Surface Personalized Message Building ProfilesDefault AttributesDefault Segments Default Attributes Default Segments Guides & InspirationLead CaptureContent Recommendations Lead Capture Content Recommendations Account Management What is Vault? Accessing Accounts Monitoring Metrics and AlertsJob AlertsMonitoring Audit LogsExporting Audit Logs or Alert JobsMonitoring MetricsUsage Metrics Job Alerts Monitoring Audit LogsExporting Audit Logs or Alert Jobs Exporting Audit Logs or Alert Jobs Monitoring Metrics Usage Metrics Managing UsersSingle Sign-On Single Sign-On Account SettingsAccount DetailsJavaScript Tag ConfigPersonalization APIContent ServicesSecurityAI & Modeling ControlsSchema Controls Account Details JavaScript Tag Config Personalization API Content Services Security AI & Modeling Controls Schema Controls Data PoliciesPlatform LimitsPrivacy and Data ProtectionImpact of Browser Tracking Changes Platform Limits Privacy and Data Protection Impact of Browser Tracking Changes Compliance Authorizations Access Tokens Key Concepts Identity Resolution Consent & PrivacyComplying with the Digital Markets Act (DMA) Complying with the Digital Markets Act (DMA) Client & Server Side Cookies Content AffinityContent CurationTopic Taxonomy Content Curation Topic Taxonomy ArchitectureIntegration PatternsJob ProcessingLytics Platform Data Flow and AccessCDI and CDP Implementation StrategyLytics Zero Copy with Cloud Connect Integration Patterns Job Processing Lytics Platform Data Flow and Access CDI and CDP Implementation Strategy Lytics Zero Copy with Cloud Connect Pipeline & Profiles Data PipelineJobs (Data Sources and Exports)Data StreamsStream Routing APITemplatesCreating Templates Using the UICreating Templates using Lytics APIUsing the Jsonnet LibraryTemplate Examples Jobs (Data Sources and Exports) Data Streams Stream Routing API TemplatesCreating Templates Using the UICreating Templates using Lytics APIUsing the Jsonnet LibraryTemplate Examples Creating Templates Using the UI Creating Templates using Lytics API Using the Jsonnet Library Template Examples Schema ManagementFields & MappingsAdvanced Mapping FunctionsMeta FieldsQueries & LQLIdentity Key RanksSchema VersionsPlanning & TroubleshootingLytics Profile SchemaSchema Copilot Fields & Mappings Advanced Mapping Functions Meta Fields Queries & LQL Identity Key Ranks Schema Versions Planning & Troubleshooting Lytics Profile Schema Schema Copilot IdentityMerge StatisticsIdentity ExplorerIdentity Rules Merge Statistics Identity Explorer Identity Rules Warehouse Access What is Cloud Connect? Connecting Warehouses Data Models & Queries Activating Data Models Cloud Connect Troubleshooting and FAQs Audiences & Activation User ProfilesUnderstanding Profile HealthFinding a User Understanding Profile Health Finding a User AudiencesAudience GroupsPrebuilt Audiences Audience Groups Prebuilt Audiences ReportsWhat are Reports?ComponentsManaging ReportsDashboard Report What are Reports? Components Managing Reports Dashboard Report ContentTopics & AffinitiesTopicsAffinitiesUsing Topics & AffinitiesClassificationEnrichmentRecommendationsDocumentsContent CollectionsCreating Content CollectionsViewing, Using & Managing CollectionsInterest EnginesDefault Interest EngineCustom Interest EnginesCollaborative Filters Topics & AffinitiesTopicsAffinitiesUsing Topics & Affinities Topics Affinities Using Topics & Affinities Classification Enrichment Recommendations Documents Content CollectionsCreating Content CollectionsViewing, Using & Managing Collections Creating Content Collections Viewing, Using & Managing Collections Interest EnginesDefault Interest EngineCustom Interest EnginesCollaborative Filters Default Interest Engine Custom Interest Engines Collaborative Filters Lookalike Models & AudiencesGetting StartedBuilding Lookalike ModelsEvaluating Lookalike ModelsCreating Lookalike AudiencesImproving Lookalike Models Getting Started Building Lookalike Models Evaluating Lookalike Models Creating Lookalike Audiences Improving Lookalike Models ActivationDestinationsGoalsExperiences Destinations Goals Experiences Behavioral Scores Tutorials Leveraging User ProfilesAccessing Profiles Client SideAccessing Profiles Server SideWorking with Anonymous ProfilesGet Started with Lytics SegmentsInline Content Recommendations Accessing Profiles Client Side Accessing Profiles Server Side Working with Anonymous Profiles Get Started with Lytics Segments Inline Content Recommendations Data Collection & OnboardingWorking with Custom DataWorking with Web DataCollect Mobile Data with Firebase + GTM Working with Custom Data Working with Web Data Collect Mobile Data with Firebase + GTM Data ManagementProfile Stitching Best PracticesMigrating from Queries to Conductor SchemaLQL & Data Import Basics Profile Stitching Best Practices Migrating from Queries to Conductor Schema LQL & Data Import Basics Use CasesAcquire New Customers with LyticsBest Practices for Personalizing Your Ad or Search Landing PageCapture More Information from Qualified LeadsContent Modularization in Email with Lytics AudiencesCustomize your Web Experiences with Branded ImagesDeliver Targeted ContentDrive Email Capture & Engagement with ContentDrive Mobile App Downloads With LyticsEngage Qualified Users with Targeted AdsEnhance Personalized Messaging with User Profile FieldsGrow Your Email Marketing ListImport an Audience from your Data WarehouseImprove Ad Campaign Metrics with Predictive TargetingIncrease Conversions with Lytics and Facebook LookalikeKeep Visitors Engaged with Content Recommendation ExperiencesLeverage Lookalike Models and Predictive AudiencesLookalike Models: Conserve marketing spend on engaged usersLookalike Models: Convert anonymous users to known usersLookalike Models: Convert single purchasers to multi-purchasersLookalike Models: Determine which subscribers are likely to churnMobile Messaging with Lytics Webhooks and Serverless FunctionsOptimize Remarketing SpendPersonalize the Messaging of your Website Based on AudiencePopulate Your Website With One-to-One Content RecommendationsPromote Relevant Content to Users based on their InterestsReach the Right People Using LyticsRetain Existing Customers With LyticsPersonalize your Iterable emails With Lytics content recommendationsBuild a Custom Personalized Experience With Video ContentUnlock Additional Web Personalization Features with Lytics API OverridesHow to Use GTM Tags to Modify Lytics Pathfora Widget BehaviorStyle your Lytics Web Experiences to Fit Your Brand Guidelines Acquire New Customers with Lytics Best Practices for Personalizing Your Ad or Search Landing Page Capture More Information from Qualified Leads Content Modularization in Email with Lytics Audiences Customize your Web Experiences with Branded Images Deliver Targeted Content Drive Email Capture & Engagement with Content Drive Mobile App Downloads With Lytics Engage Qualified Users with Targeted Ads Enhance Personalized Messaging with User Profile Fields Grow Your Email Marketing List Import an Audience from your Data Warehouse Improve Ad Campaign Metrics with Predictive Targeting Increase Conversions with Lytics and Facebook Lookalike Keep Visitors Engaged with Content Recommendation Experiences Leverage Lookalike Models and Predictive Audiences Lookalike Models: Conserve marketing spend on engaged users Lookalike Models: Convert anonymous users to known users Lookalike Models: Convert single purchasers to multi-purchasers Lookalike Models: Determine which subscribers are likely to churn Mobile Messaging with Lytics Webhooks and Serverless Functions Optimize Remarketing Spend Personalize the Messaging of your Website Based on Audience Populate Your Website With One-to-One Content Recommendations Promote Relevant Content to Users based on their Interests Reach the Right People Using Lytics Retain Existing Customers With Lytics Personalize your Iterable emails With Lytics content recommendations Build a Custom Personalized Experience With Video Content Unlock Additional Web Personalization Features with Lytics API Overrides How to Use GTM Tags to Modify Lytics Pathfora Widget Behavior Style your Lytics Web Experiences to Fit Your Brand Guidelines SDKs & Tools WebJavaScriptOn-site PersonalizationSubresource Integrity (SRI) JavaScript On-site Personalization Subresource Integrity (SRI) MobileiOSReact NativeAndroid iOS React Native Android Chrome Extension Integrations Lytics Integration Options Acoustic Adobe AdRoll Airship Amplitude Amazon Ads Amazon Kinesis Amazon Pinpoint Amazon Redshift Amazon S3 Amazon SQS Ansira BigCommerce BlueKai Blueshift Braze Brevo Campaign Monitor Cheetah Digital Clearbit Contentful Cordial Criteo Customer.io Databricks Dotdigital Drift Episerver FullContact GIGYA Google Optimize Google Ad Manager (DFP) Google Ads Google BigQuery Google Cloud Pub/Sub Google Cloud Storage Google Drive Google Marketing: Analytics, DV360, CM360 Google Cloud Operations Google Tag Manager HubSpot iContact Insider Iterable Jebbit Klaviyo Leadsquared LinkedIn LiveRamp Localytics Looker Lotame Lytics File Service Lytics Monitoring Mailchimp Mailgun Mandrill Mapp Mapp: BlueHornet Marketo Maropost MediaMath Meta Microsoft Microsoft Azure Microsoft Teams Mixpanel NetSuite New Relic Omeda OneSignal OneTrust Oracle Marketing Cloud: Eloqua Pinterest PostUp Radar Reddit Responsys Retention Science Sailthru Salesforce Salesforce DMP (Krux) Salesforce Marketing Cloud Salesforce Pardot Segment.com Selligent SendGrid Shopify Sitecore Slack Snapchat Snowflake SparkPost SurveyMonkey Swrve Taboola Tealium TikTok The Trade Desk Unified ID 2.0 Versium Webhooks Webhook Templates Wistia X Ads Yahoo Ads Zapier Zendesk Zuora Contentstack Partners Partner Types Lytics Communication Legacy Insights Importing External Experiences IDP-initiated SSO (legacy) Web PersonalizationIntroductionDrive Traffic CampaignCollect Leads CampaignPresent a Message CampaignRecommend Content CampaignCampaign ReportingCampaign ManagementBuilding Audiences with Campaign Data Introduction Drive Traffic Campaign Collect Leads Campaign Present a Message Campaign Recommend Content Campaign Campaign Reporting Campaign Management Building Audiences with Campaign Data Connecting Warehouses Access Cloud Connect tabs are found under Data Pipeline > Cloud Connect. Connections configure the access to your data warehouses, and Data Models configure the SQL queries that are run to connect audience membership and profile attributes. Creating a Connection Click + Create New Connection from the Connections Dashboard at the top right and complete the following steps. Choose the provider. Choose the Connection type. Select an existing Authorization or create a new one by following the Authorization instructions. Add a name (label), description, and complete the configuration options. These will vary slightly between providers. Authorization & Security The authorization selected for your Connection will control your Lytics account users' access to your data warehouse. You can control whether a user has read access to the entire dataset or individual tables, maintaining your security and governance practices within your data warehouse. Supported Data Warehouses Cloud Connect currently supports a number of popular data warehouses: Amazon Redshift Databricks Google BigQuery Microsoft Azure SQL Database Snowflake Managing Connections Once you have created a Connection, you can access a summary page showing how data from your data warehouse is being leveraged in Lytics. At the top of the page, you’ll see the following information: Provider: Data warehouse that you are connecting with Lytics. Authorization: Name of the authorization, such as “Cloud Connect JWT.” Note: Lytics users can access any data tables that the Connection Authorization has read access to. Type: Indicates the type based on your provider. Created By: Lytics user who created the Connection. Created On: Date the Connection was initially created. Last Updated: Date the Connection was most recently edited. The rest of the Summary tab shows how many active and inactive data models are built using this Connection as a data source and how many tables are accessible from this dataset. The Activity chart displays how many rows are being queried, which can have cost implications based on your data warehouse usage. Explore The Explore tab provides a simple Schema Explorer to validate that the data shown is as you would expect to see in your data warehouse. In the example below, we only connected an individual table, but here you will see as many tables as the authorization has read access to. Details The Details section displays all the information about setting up your Connection, including the authorization and configuration settings. Logs The Logs section records the history of events for this Connection, which are helpful to ensure your connection is working as expected. Below are the connection event types you may see. Updated 4 months ago Table of Contents Access Creating a Connection Authorization & Security Supported Data Warehouses Managing Connections Explore Details Logs Access Creating a Connection Authorization & Security Supported Data Warehouses Authorization & Security Supported Data Warehouses Managing Connections Explore Details Logs Explore Details Logs",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Quick Start"
+    },
+    {
+      "level": 2,
+      "text": "Account Management"
+    },
+    {
+      "level": 2,
+      "text": "Key Concepts"
+    },
+    {
+      "level": 2,
+      "text": "Pipeline & Profiles"
+    },
+    {
+      "level": 2,
+      "text": "Warehouse Access"
+    },
+    {
+      "level": 2,
+      "text": "Audiences & Activation"
+    },
+    {
+      "level": 2,
+      "text": "Tutorials"
+    },
+    {
+      "level": 2,
+      "text": "SDKs & Tools"
+    },
+    {
+      "level": 2,
+      "text": "Integrations"
+    },
+    {
+      "level": 2,
+      "text": "Partners"
+    },
+    {
+      "level": 2,
+      "text": "Legacy"
+    },
+    {
+      "level": 1,
+      "text": "Connecting Warehouses"
+    },
+    {
+      "level": 1,
+      "text": "Access"
+    },
+    {
+      "level": 1,
+      "text": "Creating a Connection"
+    },
+    {
+      "level": 2,
+      "text": "Authorization & Security"
+    },
+    {
+      "level": 2,
+      "text": "Supported Data Warehouses"
+    },
+    {
+      "level": 1,
+      "text": "Managing Connections"
+    },
+    {
+      "level": 2,
+      "text": "Explore"
+    },
+    {
+      "level": 2,
+      "text": "Details"
+    },
+    {
+      "level": 2,
+      "text": "Logs"
+    }
+  ],
+  "platform": "lytics"
+}

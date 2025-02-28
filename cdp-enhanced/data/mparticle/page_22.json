@@ -1,0 +1,36 @@
+{
+  "url": "https://docs.mparticle.com/integrations",
+  "title": "Untitled",
+  "content": "Integrations Connect your customer data to the leading marketing, analytics, and data warehousing solutions with just a few clicks. Note: New Partners, please register.",
+  "headings": [
+    {
+      "level": 4,
+      "text": "Documentation"
+    },
+    {
+      "level": 1,
+      "text": "Integrations"
+    },
+    {
+      "level": 3,
+      "text": "CDP"
+    },
+    {
+      "level": 3,
+      "text": "Analytics"
+    },
+    {
+      "level": 3,
+      "text": "Predictive AI"
+    },
+    {
+      "level": 3,
+      "text": "Learn More"
+    },
+    {
+      "level": 3,
+      "text": "Get in Touch"
+    }
+  ],
+  "platform": "mparticle"
+}
